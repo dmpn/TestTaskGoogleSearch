@@ -1,0 +1,10 @@
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.deps.json
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\netcoreapp3.1\TestTask.pdb
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.csproj.AssemblyReference.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.AssemblyInfoInputs.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.AssemblyInfo.cs
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\netcoreapp3.1\TestTask.pdb

@@ -1,0 +1,12 @@
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\net5.0\TestTask.deps.json
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\net5.0\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\net5.0\ref\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\bin\Debug\net5.0\TestTask.pdb
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\ref\TestTask.dll
+C:\Users\dpani\RiderProjects\TestTask\TestTask\obj\Debug\net5.0\TestTask.pdb
